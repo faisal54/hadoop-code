@@ -1,1 +1,2 @@
-
+******copy command *****************
+hdfs dfs -copyFromLocal <local-path> <destination hdfs path>
